@@ -11,7 +11,7 @@ p {
 }
 
 .bg {
- 	background-repeat: no-repeat;
+  background-repeat: no-repeat;
   position: fixed;
   width: 90%;
   top: 0;
