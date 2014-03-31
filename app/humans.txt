@@ -1,0 +1,54 @@
+
+         ,---._
+       .-- -.' \                            ,-.      ,----..
+       |    |   :                       ,--/ /|     /   /   \
+       :    ;   |                     ,--. :/ |    |   :     :  ,---.     ,---.
+       :        |                     :  : ' /     .   |  ;. / '   ,'\   '   ,'\
+       |    :   :  ,--.--.     ,---.  |  '  /      .   ; /--` /   /   | /   /   |   ,---.
+       :          /       \   /     \ '  |  :      ;   | ;   .   ; ,. :.   ; ,. :  /     \
+       |    ;   |.--.  .-. | /    / ' |  |   \     |   : |   '   | |: :'   | |: : /    / '
+   ___ l          \__\/: . ..    ' /  '  : |. \    .   | '___'   | .; :'   | .; :.    ' /
+ /    /\    J   : ," .--.; |'   ; :__ |  | ' \ \   '   ; : .'|   :    ||   :    |'   ; :__
+/  ../  `..-    ,/  /  ,.  |'   | '.'|'  : |--'    '   | '/  :\   \  /  \   \  / '   | '.'|
+\    \         ;;  :   .'   \   :    :;  |,'       |   :    /  `----'    `----'  |   :    :
+ \    \      ,' |  ,     .-./\   \  / '--'          \   \ .'                      \   \  /
+  "---....--'    `--`---'     `----'                 `---`                         `----'
+
+
+/* TEAM */
+Designed and Developed: Jack Cooc
+Site: http://www.jackcooc.com/
+Twitter: @jackcooc
+Location: Toronto, ON
+Version: 1.0
+
+/* TECHNOLOGY */
+HTML5, CSS3, Bootstrap 3.0
+jQuery, Modernizr, Yeoman, Grunt, Bower
+
+/* SITE */
+Last Update: 2014/01/09
+Standards: HTML5, CSS
+Components: HTML5 Boilerplate, Modernizr, Bootstrap, jQuery
+IDE: Sublime Text 2, Atom Editor
+
+/* SPECIAL THANKS */
+Name: BitmakerLabs
+Website: http://www.bitmakerlabs.com
+Twitter: @bitmakerlabs
+
+Name: William Richman
+Twitter: @will_richman
+
+Name: Mark Reale
+Website: http://www.theymc.com
+Twitter: @markreale
+
+Name: Ladies Learning Code
+Website: http://www.ladieslearningcode.com
+Twitter: @llcodedotcom
+
+Name: Karen Wong
+Twitter: @karenwong
+
+And, of course, all the humanstxt.org team!
