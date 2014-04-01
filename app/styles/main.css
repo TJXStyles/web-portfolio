@@ -19,7 +19,7 @@ p {
 }
 
 .jumbotron {
-	background-image: url('../img/profilepic-sm.jpg');
+	background-image: url('../images/profilepic-sm.jpg');
 	margin-top: 60px;
   margin-bottom: 0;
  /* background-position: 0 25%;*/
@@ -162,7 +162,7 @@ img {
 @media (min-width: 769px) {
 	.jumbotron {
 		max-width: 100%;
-		background-image: url('../img/profilepic.jpg');
+		background-image: url('../images/profilepic.jpg');
 	}
   .main {
     margin-left: 10%;
@@ -170,11 +170,12 @@ img {
   }
 }
 
-@media (min-width: 1200px) {
+/* override the default behaviour */
+/*@media (min-width: 1200px) {
   .container {
     width: 1024px;
   }
-}
+}*/
 
 .foot {
   display: inline;
